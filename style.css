@@ -1,0 +1,38 @@
+#p1
+{ font-size:24px;
+    color:maroon; 
+    background-color: greenyellow;
+}
+#p2
+{    font-size:24px;
+    color:white;
+    background-color: black;
+}
+#p3{
+    font-size:24px;
+    color:darkgreen;
+    background-color: gold;
+}
+.white
+{    color:black;
+    background-color: white;
+}
+.listitem
+{    font-size: 36px;
+    color:darkred;
+    list-style: none;
+    padding:10px;
+    background-color:yellowgreen;
+    border: 2px solid black;
+    margin:5px;
+    background-image:  url("iconfinder_star_fav_42362.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 50%;
+}
+.listitem:hover{
+    background-color: white;
+cursor: pointer;
+transform:translateX(15px);
+opacity:0.5;
+}
