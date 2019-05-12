@@ -36,3 +36,26 @@ cursor: pointer;
 transform:translateX(15px);
 opacity:0.5;
 }
+.container1
+{ display: flex;
+    flex-wrap: wrap;
+    
+}
+.container2
+{ display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.container3
+{ display: flex;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+.container4
+ { display: flex;
+    position: absolute;
+    right: 0px; 
+
+}
